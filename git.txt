@@ -1,1 +1,1 @@
-This my first git text document
+This my first git text document, I hope you'll love it
